@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+build/
+dist/
+data/
+test-data/
+.desktop-tools/
+.musicdl-app/
+.musicdl-web/
+musicdl_outputs/
+*.log
+*.env
+.env
+*.spec.bak
+preview*.png
+preview*.jpg
